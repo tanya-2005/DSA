@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tanya-2005/DSA/tree/master/0198-house-robber) |
@@ -31,10 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/tanya-2005/DSA/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tanya-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
