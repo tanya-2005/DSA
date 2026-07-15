@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanya-2005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanya-2005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
