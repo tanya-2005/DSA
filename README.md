@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/tanya-2005/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/tanya-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tanya-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanya-2005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
