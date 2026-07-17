@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tanya-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tanya-2005/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanya-2005/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
