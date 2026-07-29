@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tanya-2005/DSA/tree/master/0198-house-robber) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanya-2005/DSA/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
