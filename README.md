@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tanya-2005/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tanya-2005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanya-2005/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
