@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tanya-2005/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/tanya-2005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanya-2005/DSA/tree/master/0075-sort-colors) |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tanya-2005/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
