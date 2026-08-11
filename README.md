@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tanya-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/tanya-2005/DSA/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/tanya-2005/DSA/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tanya-2005/DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanya-2005/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tanya-2005/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanya-2005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanya-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tanya-2005/DSA/tree/master/0704-binary-search) |
 ## Greedy
 |  |
