@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/tanya-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanya-2005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanya-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tanya-2005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/tanya-2005/DSA/tree/master/1143-longest-common-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/tanya-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
+| [1903-largest-odd-number-in-string](https://github.com/tanya-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
