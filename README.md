@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/tanya-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tanya-2005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/tanya-2005/DSA/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tanya-2005/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanya-2005/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/tanya-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanya-2005/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanya-2005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
