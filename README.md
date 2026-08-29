@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tanya-2005/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tanya-2005/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanya-2005/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/tanya-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/tanya-2005/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanya-2005/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
