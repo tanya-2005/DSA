@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanya-2005/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanya-2005/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanya-2005/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tanya-2005/DSA/tree/master/0072-edit-distance) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanya-2005/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tanya-2005/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tanya-2005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tanya-2005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanya-2005/DSA/tree/master/0169-majority-element) |
