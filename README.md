@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanya-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/tanya-2005/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanya-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanya-2005/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanya-2005/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanya-2005/DSA/tree/master/0014-longest-common-prefix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanya-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanya-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tanya-2005/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanya-2005/DSA/tree/master/0075-sort-colors) |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tanya-2005/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanya-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
