@@ -15,6 +15,9 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
         TreeNode current = root;
         int leftHeight = 0;
         while(current != null){
