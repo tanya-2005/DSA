@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanya-2005/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/tanya-2005/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanya-2005/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanya-2005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanya-2005/DSA/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanya-2005/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanya-2005/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanya-2005/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/tanya-2005/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tanya-2005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanya-2005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanya-2005/DSA/tree/master/0075-sort-colors) |
