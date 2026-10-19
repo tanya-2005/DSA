@@ -6,7 +6,9 @@ class Solution {
                 return digits;
             }
 
+            if(digits[i] == 9){
             digits[i] = 0;
+            }
         }
 
         int[] ans = new int[digits.length + 1];
